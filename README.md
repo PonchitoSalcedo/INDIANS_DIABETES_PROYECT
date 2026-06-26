@@ -2,9 +2,9 @@
 
 ## Reporte Técnico de Evaluación, Validación e Impacto en el Negocio
 
-**Desarrollado por:** [Tu Nombre] — Especialista en IA y Soluciones Tecnológicas  
-**Repositorio:** [Nombre de tu repositorio]  
-**Fecha:** [Fecha del proyecto]
+**Desarrollado por:** Luis Alfonso Salcedo Peña y Raúl Ramos Acuña  
+**Repositorio:** Proyecto de Diabetes para Indios  
+**Fecha:** 25 de Junio de 2026
 
 ---
 
