@@ -112,10 +112,11 @@ print(f"🎯 Mejor umbral F2-Score: {best_thr:.2f}")
 
 La siguiente gráfica muestra cómo varían las métricas principales al modificar el umbral de decisión:
 
-<pre><code class="language-python">
-import matplotlib.pyplot as plt
-import numpy as np
-  
+### 📉 Visualización del Impacto del Umbral
+
+La siguiente gráfica muestra cómo varían las métricas principales al modificar el umbral de decisión:
+
+```python
 # Visualización del impacto del umbral
 import matplotlib.pyplot as plt
 import numpy as np
@@ -145,5 +146,3 @@ plt.ylim(0, 1)
 plt.tight_layout()
 plt.savefig('umbral_optimizacion.png', dpi=300, bbox_inches='tight')
 plt.show()
-
-</code></pre>
