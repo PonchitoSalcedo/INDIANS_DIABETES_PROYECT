@@ -3,7 +3,9 @@
 ## Reporte Técnico de Evaluación, Validación e Impacto en el Negocio
 
 **Desarrollado por:** Luis Alfonso Salcedo Peña y Raúl Ramos Acuña 
+
 **Repositorio:** Indians Diabetes Proyect 
+
 **Fecha:** 25 de Junio de 2026
 
 ---
