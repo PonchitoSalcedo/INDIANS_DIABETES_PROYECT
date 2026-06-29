@@ -338,15 +338,7 @@ El modelo desarrollado no solo cumple con los objetivos técnicos planteados, si
 
 ---
 
-## 📎 10. Recursos y Enlaces
-
-- **Cuaderno de Colab:** [Enlace a tu cuaderno](https://colab.research.google.com/drive/1Sd5lWckj5qIzpSivL1QCgxiSQshJXmr3#scrollTo=mx-4VEv2sNWm)
-- **Dataset Original:** [Pima Indians Diabetes Database (Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-- **Repositorio del Proyecto:** [Enlace a tu repositorio](https://github.com/tu-usuario/tu-repositorio)
-
----
-
-## 🛠️ 11. Tecnologías Utilizadas
+## 🛠️ 10. Tecnologías Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-green)
